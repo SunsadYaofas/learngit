@@ -3,3 +3,5 @@ Git is a distributed version control system.
 
 
 master change
+new nnnn new
+confict solve

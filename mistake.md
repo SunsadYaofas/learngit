@@ -6,7 +6,7 @@
 
 root@sun-Lenovo:/home/sun/new# ssh -T git@github.com<br>
 Hi SunsadYaofas! You've successfully authenticated, but GitHub does not provide shell access.<br>
-3.git clone git@github.com:SunsadYaofas/learngit
+3.git clone git@github.com:SunsadYaofas/learngit<br>
 4.这里分为两种情况，一种是当暂存区中有文件时，另一种是暂存区中没有文件。<br>
 （1）当暂存区中没有文件时，git diff比较的是，工作区中的文件与上次提交到版本库中的文件。<br>
 （2）当暂存区中有文件时，git diff则比较的是，当前工作区中的文件与暂存区中的文件。<br>
